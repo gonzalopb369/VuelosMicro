@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Model\Vuelos\ValueObjects\**" />
+    <EmbeddedResource Remove="Model\Vuelos\ValueObjects\**" />
+    <None Remove="Model\Vuelos\ValueObjects\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShareKernel\ShareKernel.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vuelos", "Vuelos\Vuelos.csproj", "{A0C54888-2463-42B4-A7EC-C5B0DAE6C831}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShareKernel", "ShareKernel\ShareKernel.csproj", "{518E0A0F-E9C0-4184-9126-3598E6775F33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vuelos.Domain", "Vuelos.Domain\Vuelos.Domain.csproj", "{7D82F955-F786-4C04-AA6A-DA8517ABD13B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vuelos.Infraestructure", "Vuelos.Infraestructure\Vuelos.Infraestructure.csproj", "{F732CB41-F569-4846-AC9B-3390FE3EE0CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vuelos.WebApi", "Vuelos.WebApi\Vuelos.WebApi.csproj", "{386F85E8-6C08-4719-AEF3-0E577CD51B37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vuelos.Application", "Vuelos.Application\Vuelos.Application.csproj", "{05C2DCF5-F591-4C5D-A606-98FFB59827D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0C54888-2463-42B4-A7EC-C5B0DAE6C831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C54888-2463-42B4-A7EC-C5B0DAE6C831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C54888-2463-42B4-A7EC-C5B0DAE6C831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C54888-2463-42B4-A7EC-C5B0DAE6C831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518E0A0F-E9C0-4184-9126-3598E6775F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518E0A0F-E9C0-4184-9126-3598E6775F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518E0A0F-E9C0-4184-9126-3598E6775F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518E0A0F-E9C0-4184-9126-3598E6775F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D82F955-F786-4C04-AA6A-DA8517ABD13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D82F955-F786-4C04-AA6A-DA8517ABD13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D82F955-F786-4C04-AA6A-DA8517ABD13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D82F955-F786-4C04-AA6A-DA8517ABD13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F732CB41-F569-4846-AC9B-3390FE3EE0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F732CB41-F569-4846-AC9B-3390FE3EE0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F732CB41-F569-4846-AC9B-3390FE3EE0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F732CB41-F569-4846-AC9B-3390FE3EE0CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386F85E8-6C08-4719-AEF3-0E577CD51B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386F85E8-6C08-4719-AEF3-0E577CD51B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386F85E8-6C08-4719-AEF3-0E577CD51B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386F85E8-6C08-4719-AEF3-0E577CD51B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C2DCF5-F591-4C5D-A606-98FFB59827D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C2DCF5-F591-4C5D-A606-98FFB59827D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C2DCF5-F591-4C5D-A606-98FFB59827D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C2DCF5-F591-4C5D-A606-98FFB59827D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F37EA108-31C7-43F6-99AA-9500857178C4}
+	EndGlobalSection
+EndGlobal
