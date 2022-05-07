@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Dto\Ciudad\" />
     <Folder Include="UseCases\Command\Ciudad\" />
   </ItemGroup>
 

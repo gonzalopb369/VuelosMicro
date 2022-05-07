@@ -18,7 +18,7 @@ namespace Vuelos.Infraestructure.EF.Contexts
     {
         public virtual DbSet<Aeronave> Aeronave { get; set; }
         public virtual DbSet<Ciudad> Ciudad { get; set; }
-        public virtual DbSet<Vuelo> Vuelo { get; set; }
+        public virtual DbSet<Vuelo> Vuelo { get; set; } 
 
 
         public WriteDbContext(DbContextOptions<WriteDbContext> options) : base(options)

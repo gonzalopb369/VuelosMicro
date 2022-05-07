@@ -27,7 +27,7 @@ namespace Vuelos.Infraestructure.EF.Repository
 
         public async Task<Aeronave> FindByIdAsync(Guid id)
         {
-            return await _aeronave.Include("_detalleAsientos")  //!!! verificar si esta bien esa cadena
+            return await _aeronave.Include("_detalleAsientos")  
                     .SingleAsync(x => x.Id == id);
         }
 

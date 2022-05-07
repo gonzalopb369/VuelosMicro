@@ -35,7 +35,7 @@ namespace Vuelos.Infraestructure
                 context.UseSqlServer(connectionString));
 
             services.AddScoped<IAeronaveRepository, AeronaveRepository>();
-            services.AddScoped<IVueloRepository, VueloRepository>();
+            services.AddScoped<IVueloRepository, VueloRepository>();           
             //services.AddScoped<IProductoRepository, ProductoRepository>(); // COMPLETAR
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             return services;

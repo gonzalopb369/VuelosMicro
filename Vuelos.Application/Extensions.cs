@@ -22,6 +22,9 @@ namespace Vuelos.Application
             services.AddTransient<IAeronaveFactory, AeronaveFactory>();
             services.AddTransient<IVueloService, VueloService>(); // crea instancia de AeronaveService
             services.AddTransient<IVueloFactory, VueloFactory>();
+
+            services.AddTransient<ICiudadService, CiudadService>(); // crea instancia de AeronaveService
+            //services.AddTransient<IAeronaveFactory, AeronaveFactory>();
             return services;
         }
     }

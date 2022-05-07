@@ -16,7 +16,7 @@ namespace Vuelos.Infraestructure.EF.Contexts
     {
         public virtual DbSet<AeronaveReadModel> Aeronave { set; get; }
         public virtual DbSet<VueloReadModel> Vuelo { set; get; }
-        //public virtual DbSet<ProductoReadModel> Producto { set; get; }
+        public virtual DbSet<CiudadReadModel> Ciudad { set; get; }
 
         public ReadDbContext(DbContextOptions<ReadDbContext> options) : base(options)
         {
@@ -34,8 +34,8 @@ namespace Vuelos.Infraestructure.EF.Contexts
             modelBuilder.ApplyConfiguration<VueloReadModel>(vueloConfig);
             modelBuilder.ApplyConfiguration<VueloProgramadoReadModel>(vueloConfig);
 
-            //var productoConfig = new ProductoReadConfig();
-            //modelBuilder.ApplyConfiguration<ProductoReadModel>(productoConfig);
+            var ciudadConfig = new CiudadReadConfig();
+            modelBuilder.ApplyConfiguration<CiudadReadModel>(ciudadConfig);
 
             modelBuilder.Ignore<DomainEvent>();
             modelBuilder.Ignore<AeronaveCreada>();

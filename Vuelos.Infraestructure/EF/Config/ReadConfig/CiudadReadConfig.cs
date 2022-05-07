@@ -5,29 +5,34 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Vuelos.Infraestructure.EF.ReadModel;
 
 namespace Vuelos.Infraestructure.EF.Config.ReadConfig
 {
-    public class CiudadReadConfig //: IEntityTypeConfiguration<CiudadReadModel>
+    public class CiudadReadConfig : IEntityTypeConfiguration<CiudadReadModel>
     {
-        //public void Configure(EntityTypeBuilder<CiudadReadModel> builder)
-        //{
-        //    builder.ToTable("Producto"); // !!! CORREGIR
-        //    builder.HasKey(x => x.Id);
+        public void Configure(EntityTypeBuilder<CiudadReadModel> builder)
+        {
+            builder.ToTable("Ciudad");
+            builder.HasKey(x => x.Id);
 
-        //    builder.Property(x => x.Nombre)  // !!! CORREGIR
-        //        .HasMaxLength(500)
-        //        .HasColumnName("nombre");
+            builder.Property(x => x.CodigoCiudad)
+                .HasMaxLength(3)
+                .HasColumnName("codigoCiudad");
+
+            builder.Property(x => x.NombreCiudad)
+                .HasMaxLength(100)
+                .HasColumnName("nombreCiudad");
+
+            builder.Property(x => x.NombreAeropuerto)
+               .HasMaxLength(100)
+               .HasColumnName("nombreAeropuerto");
 
 
-        //    builder.Property(x => x.PrecioVenta)     // !!! CORREGIR
-        //        .HasColumnName("precioVenta")
-        //        .HasColumnType("decimal")
-        //        .HasPrecision(12, 2);
-
-        //    builder.Property(x => x.StockActual)     // !!! CORREGIR
-        //        .HasColumnName("stockActual");
-
-        //}
+            builder.Property(x => x.EstadoAeropuerto)
+                .HasColumnName("estadoAeropuerto")
+                .HasColumnType("bit");
+            //.HasPrecision(12, 2);           
+        }
     }
 }
