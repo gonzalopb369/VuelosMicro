@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\Pedidos.Application\\Pedidos.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\Pedidos.Application\\Pedidos.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\Pedidos.Application\\Pedidos.Application.csproj",
+        "projectName": "Pedidos.Application",
+        "projectPath": "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\Pedidos.Application\\Pedidos.Application.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\Pedidos.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\Vuelos.Domain\\Vuelos.Domain.csproj": {
+                "projectPath": "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\Vuelos.Domain\\Vuelos.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\ShareKernel\\ShareKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\ShareKernel\\ShareKernel.csproj",
+        "projectName": "ShareKernel",
+        "projectPath": "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\ShareKernel\\ShareKernel.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\ShareKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\Vuelos.Domain\\Vuelos.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\Vuelos.Domain\\Vuelos.Domain.csproj",
+        "projectName": "Vuelos.Domain",
+        "projectPath": "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\Vuelos.Domain\\Vuelos.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\Vuelos.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\ShareKernel\\ShareKernel.csproj": {
+                "projectPath": "D:\\Arquitectura con microservicios\\Modulo 2 - arquitectura limpia\\Proyecto\\Vuelos\\Vuelos\\ShareKernel\\ShareKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -37,6 +37,7 @@ namespace Vuelos.WebApi.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAeronaveById([FromRoute] GetAeronaveByIdQuery command)
         {
+            Console.WriteLine("dentro de getaeronave");
             AeronaveDto result = await _mediator.Send(command);
             if (result == null)
                 return NotFound();

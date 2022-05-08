@@ -1,0 +1,148 @@
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.csproj.AssemblyReference.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.AssemblyInfoInputs.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.AssemblyInfo.cs
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.csproj.CoreCompileInputs.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.WebApi.exe
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.WebApi.deps.json
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.WebApi.runtimeconfig.json
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.WebApi.runtimeconfig.dev.json
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.WebApi.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\ref\Vuelos.WebApi.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.WebApi.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\MediatR.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\MediatR.Contracts.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\ShareKernel.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.Application.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.Domain.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.Infraestructure.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.Infraestructure.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\ShareKernel.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.Application.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.Domain.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\staticwebassets\Vuelos.WebApi.StaticWebAssets.Manifest.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\staticwebassets\Vuelos.WebApi.StaticWebAssets.xml
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\scopedcss\bundle\Vuelos.WebApi.styles.css
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.RazorTargetAssemblyInfo.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.csproj.CopyComplete
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\ref\Vuelos.WebApi.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.genruntimeconfig.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.WebApi.exe
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.WebApi.deps.json
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.WebApi.runtimeconfig.json
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.WebApi.runtimeconfig.dev.json
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.WebApi.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\ref\Vuelos.WebApi.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.WebApi.pdb
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\MediatR.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\MediatR.Contracts.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\ShareKernel.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.Application.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.Domain.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.Infraestructure.dll
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.Infraestructure.pdb
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\ShareKernel.pdb
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.Application.pdb
+D:\Vuelos\Vuelos.WebApi\bin\Debug\net5.0\Vuelos.Domain.pdb
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.csproj.AssemblyReference.cache
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.AssemblyInfoInputs.cache
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.AssemblyInfo.cs
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.csproj.CoreCompileInputs.cache
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\staticwebassets\Vuelos.WebApi.StaticWebAssets.Manifest.cache
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\staticwebassets\Vuelos.WebApi.StaticWebAssets.xml
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\scopedcss\bundle\Vuelos.WebApi.styles.css
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.RazorTargetAssemblyInfo.cache
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.csproj.CopyComplete
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.dll
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\ref\Vuelos.WebApi.dll
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.pdb
+D:\Vuelos\Vuelos.WebApi\obj\Debug\net5.0\Vuelos.WebApi.genruntimeconfig.cache

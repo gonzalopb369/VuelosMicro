@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Vuelos.Domain.Model.Ciudades;
+using Vuelos.Domain.ValueObjects;
 
 namespace Vuelos.Infraestructure.EF.Config.WriteConfig
 {

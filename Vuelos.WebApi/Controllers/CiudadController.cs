@@ -5,7 +5,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Vuelos.Application.Dto.Ciudad;
+using Vuelos.Application.UseCases.Command.Ciudades;
 using Vuelos.Application.UseCases.Queries.Ciudades.GetCiudadByIdQuery;
+
 
 namespace Vuelos.WebApi.Controllers
 {
@@ -21,14 +23,14 @@ namespace Vuelos.WebApi.Controllers
         }
 
 
-        //[HttpPost]
-        //public async Task<IActionResult> Create([FromBody] CrearAeronaveCommand command)    // CrearAeronaveCommand = Request
-        //{
-        //    Guid id = await _mediator.Send(command);
-        //    if (id == Guid.Empty)
-        //        return BadRequest();
-        //    return Ok(id);
-        //}
+        [HttpPost]
+        public async Task<IActionResult> Create([FromBody] CrearCiudadCommand command)    // CrearAeronaveCommand = Request
+        {
+            Guid id = await _mediator.Send(command);
+            if (id == Guid.Empty)
+                return BadRequest();
+            return Ok(id);
+        }
 
 
         [Route("{id:guid}")]

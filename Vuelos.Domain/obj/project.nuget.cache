@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Oj40tQDF+5pS0+6THeWmrA6SQfjDRj/VsNr27ffjK2+JxbKRcYNIPzclKsmuzWXYkdFNO/BZ4f6uSD/sH88iQ==",
+  "success": true,
+  "projectFilePath": "D:\\Vuelos\\Vuelos.Domain\\Vuelos.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

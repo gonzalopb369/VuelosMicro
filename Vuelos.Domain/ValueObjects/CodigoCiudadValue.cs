@@ -6,7 +6,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShareKernel.ValueObjects
+
+namespace Vuelos.Domain.ValueObjects
 {
     public record CodigoCiudadValue : ValueObject
     {

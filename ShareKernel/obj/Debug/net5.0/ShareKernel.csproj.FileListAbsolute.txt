@@ -1,0 +1,23 @@
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\ShareKernel\bin\Debug\net5.0\ShareKernel.deps.json
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\ShareKernel\bin\Debug\net5.0\ShareKernel.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\ShareKernel\bin\Debug\net5.0\ref\ShareKernel.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\ShareKernel\bin\Debug\net5.0\ShareKernel.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.AssemblyInfoInputs.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.AssemblyInfo.cs
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.csproj.CoreCompileInputs.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\ShareKernel\obj\Debug\net5.0\ref\ShareKernel.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.csproj.AssemblyReference.cache
+D:\Vuelos\ShareKernel\bin\Debug\net5.0\ShareKernel.deps.json
+D:\Vuelos\ShareKernel\bin\Debug\net5.0\ShareKernel.dll
+D:\Vuelos\ShareKernel\bin\Debug\net5.0\ref\ShareKernel.dll
+D:\Vuelos\ShareKernel\bin\Debug\net5.0\ShareKernel.pdb
+D:\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.AssemblyInfoInputs.cache
+D:\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.AssemblyInfo.cs
+D:\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.csproj.CoreCompileInputs.cache
+D:\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.dll
+D:\Vuelos\ShareKernel\obj\Debug\net5.0\ref\ShareKernel.dll
+D:\Vuelos\ShareKernel\obj\Debug\net5.0\ShareKernel.pdb

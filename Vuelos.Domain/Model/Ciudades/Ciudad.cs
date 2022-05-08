@@ -1,7 +1,8 @@
 ﻿using ShareKernel.Core;
 using ShareKernel.ValueObjects;
 using System;
-
+using Vuelos.Domain.Event;
+using Vuelos.Domain.ValueObjects;
 
 
 namespace Vuelos.Domain.Model.Ciudades
@@ -20,6 +21,14 @@ namespace Vuelos.Domain.Model.Ciudades
         }
 
 
+        internal Ciudad(string codigoCiudad)   // !!! ver. si añadir los demás campos
+        {
+            Id = Guid.NewGuid();
+            CodigoCiudad = codigoCiudad;
+            EstadoAeropuerto = true;
+        }
+
+
         public Ciudad(CodigoCiudadValue codigoCiudad, NombreCiudadValue nombreCiudad, 
                     NombreAeropuertoValue nombreAeropuerto, bool estadoAeropuerto)
         {
@@ -30,6 +39,12 @@ namespace Vuelos.Domain.Model.Ciudades
             EstadoAeropuerto = estadoAeropuerto;
         }
 
+
+        public void ConsolidarCiudad()
+        {
+            var evento = new CiudadCreada(Id, CodigoCiudad);
+            AddDomainEvent(evento);
+        }
 
         //public void ReducirStock(CantidadValue cantidad)
         //{

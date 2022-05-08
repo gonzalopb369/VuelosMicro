@@ -1,0 +1,46 @@
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.exe
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.deps.json
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.runtimeconfig.json
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.runtimeconfig.dev.json
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\ref\Vuelos.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\ShareKernel.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.Domain.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.Domain.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\ShareKernel.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.csproj.AssemblyReference.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.AssemblyInfoInputs.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.AssemblyInfo.cs
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.csproj.CoreCompileInputs.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.csproj.CopyComplete
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\obj\Debug\net5.0\ref\Vuelos.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.genruntimeconfig.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\MediatR.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos\bin\Debug\net5.0\MediatR.Contracts.dll
+D:\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.exe
+D:\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.deps.json
+D:\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.runtimeconfig.json
+D:\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.runtimeconfig.dev.json
+D:\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.dll
+D:\Vuelos\Vuelos\bin\Debug\net5.0\ref\Vuelos.dll
+D:\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.pdb
+D:\Vuelos\Vuelos\bin\Debug\net5.0\MediatR.dll
+D:\Vuelos\Vuelos\bin\Debug\net5.0\MediatR.Contracts.dll
+D:\Vuelos\Vuelos\bin\Debug\net5.0\ShareKernel.dll
+D:\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.Domain.dll
+D:\Vuelos\Vuelos\bin\Debug\net5.0\Vuelos.Domain.pdb
+D:\Vuelos\Vuelos\bin\Debug\net5.0\ShareKernel.pdb
+D:\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.csproj.AssemblyReference.cache
+D:\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.AssemblyInfoInputs.cache
+D:\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.AssemblyInfo.cs
+D:\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.csproj.CoreCompileInputs.cache
+D:\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.csproj.CopyComplete
+D:\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.dll
+D:\Vuelos\Vuelos\obj\Debug\net5.0\ref\Vuelos.dll
+D:\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.pdb
+D:\Vuelos\Vuelos\obj\Debug\net5.0\Vuelos.genruntimeconfig.cache

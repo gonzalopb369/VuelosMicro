@@ -1,0 +1,34 @@
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\bin\Debug\net5.0\Vuelos.Application.deps.json
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\bin\Debug\net5.0\Vuelos.Application.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\bin\Debug\net5.0\ref\Vuelos.Application.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\bin\Debug\net5.0\Vuelos.Application.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\bin\Debug\net5.0\ShareKernel.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\bin\Debug\net5.0\Vuelos.Domain.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\bin\Debug\net5.0\Vuelos.Domain.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\bin\Debug\net5.0\ShareKernel.pdb
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.csproj.AssemblyReference.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.AssemblyInfoInputs.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.AssemblyInfo.cs
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.csproj.CoreCompileInputs.cache
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.csproj.CopyComplete
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\obj\Debug\net5.0\ref\Vuelos.Application.dll
+D:\Arquitectura con microservicios\Modulo 2 - arquitectura limpia\Proyecto\Vuelos\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.pdb
+D:\Vuelos\Vuelos.Application\bin\Debug\net5.0\Vuelos.Application.deps.json
+D:\Vuelos\Vuelos.Application\bin\Debug\net5.0\Vuelos.Application.dll
+D:\Vuelos\Vuelos.Application\bin\Debug\net5.0\ref\Vuelos.Application.dll
+D:\Vuelos\Vuelos.Application\bin\Debug\net5.0\Vuelos.Application.pdb
+D:\Vuelos\Vuelos.Application\bin\Debug\net5.0\ShareKernel.dll
+D:\Vuelos\Vuelos.Application\bin\Debug\net5.0\Vuelos.Domain.dll
+D:\Vuelos\Vuelos.Application\bin\Debug\net5.0\Vuelos.Domain.pdb
+D:\Vuelos\Vuelos.Application\bin\Debug\net5.0\ShareKernel.pdb
+D:\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.csproj.AssemblyReference.cache
+D:\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.AssemblyInfoInputs.cache
+D:\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.AssemblyInfo.cs
+D:\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.csproj.CoreCompileInputs.cache
+D:\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.csproj.CopyComplete
+D:\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.dll
+D:\Vuelos\Vuelos.Application\obj\Debug\net5.0\ref\Vuelos.Application.dll
+D:\Vuelos\Vuelos.Application\obj\Debug\net5.0\Vuelos.Application.pdb
