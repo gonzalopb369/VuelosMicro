@@ -10,6 +10,7 @@ using Vuelos.Domain.Event;
 using Vuelos.Domain.Model.Aeronaves;
 using Vuelos.Domain.ValueObjects;
 
+
 namespace Vuelos.Domain.Model.Vuelos
 {
     public class Vuelo : AggregateRoot<Guid>
@@ -47,8 +48,13 @@ namespace Vuelos.Domain.Model.Vuelos
 
         //Guid productoId,
         public void AgregarItem(NroVueloValue nroVuelo, bool lunes, bool martes, bool miercoles, bool jueves, bool viernes,
-                               bool sabado, bool domingo, DateTime horaSalida, DateTime horaLlegada, CodigoCiudadValue ciudadOrigen,
-                               CodigoCiudadValue ciudadDestino, PrecioValue precioVuelo, CantidadMillasValue cantidadMillas)
+                               bool sabado, bool domingo, HoraVueloValue horaSalida, HoraVueloValue horaLlegada,
+                               CodigoCiudadValue ciudadOrigen, CodigoCiudadValue ciudadDestino,
+                               PrecioValue precioVuelo, CantidadMillasValue cantidadMillas)
+        //public void AgregarItem(NroVueloValue nroVuelo, bool lunes, bool martes, bool miercoles, bool jueves, bool viernes,
+        //                  bool sabado, bool domingo, string horaSalida, string horaLlegada,
+        //                  string ciudadOrigen, string ciudadDestino,
+        //                  PrecioValue precioVuelo, CantidadMillasValue cantidadMillas)
         {
             //var detallePedido = _detalle.FirstOrDefault(x => x.ProductoId == productoId);
             var detVueloProgramado = new VueloProgramado(nroVuelo, lunes, martes, miercoles, jueves, viernes,

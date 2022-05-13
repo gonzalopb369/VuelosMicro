@@ -89,13 +89,25 @@ namespace Vuelos.Infraestructure.EF.Config.WriteConfig
                 .HasColumnName("domingo")
                 .HasColumnType("bit");
 
+            var horaSalidaVueloConverter = new ValueConverter<HoraVueloValue, string>(
+                horaVueloValue => horaVueloValue.HoraVuelo,
+                horaVuelo => new HoraVueloValue(horaVuelo)
+            );
             builder.Property(x => x.HoraSalida)
               .HasColumnName("horaSalida")
-              .HasColumnType("DateTime");
+              .HasConversion(horaSalidaVueloConverter)
+              //.HasColumnType("varchar") !!! esto no debe haber
+              .HasMaxLength(5);
 
+            var horaLlegadaVueloConverter = new ValueConverter<HoraVueloValue, string>(
+               horaVueloValue => horaVueloValue.HoraVuelo,
+               horaVuelo => new HoraVueloValue(horaVuelo)
+           );
             builder.Property(x => x.HoraLlegada)
               .HasColumnName("horaLlegada")
-              .HasColumnType("DateTime");
+              .HasConversion(horaLlegadaVueloConverter)
+              //.HasColumnType("varchar") !!! esto no debe haber
+              .HasMaxLength(5);
 
             var ciudadOrigenConverter = new ValueConverter<CodigoCiudadValue, string>(
                 ciudadOrigenValue => ciudadOrigenValue.CodigoCiudad,
@@ -122,7 +134,7 @@ namespace Vuelos.Infraestructure.EF.Config.WriteConfig
             builder.Property(x => x.PrecioVuelo)
                 .HasConversion(precioVueloConverter)
                 .HasColumnName("precioVuelo")
-                //.HasColumnType("decimal") !!!
+                .HasColumnType("decimal")
                 .HasPrecision(10, 2);
 
             var cantidadMillasConverter = new ValueConverter<CantidadMillasValue, decimal>(
@@ -132,7 +144,7 @@ namespace Vuelos.Infraestructure.EF.Config.WriteConfig
             builder.Property(x => x.CantidadMillas)
                 .HasConversion(cantidadMillasConverter)
                 .HasColumnName("cantidadMillas")
-                //.HasColumnType("decimal") !!!
+                .HasColumnType("decimal")
                 .HasPrecision(10, 2);
 
             builder.Ignore("_domainEvents");

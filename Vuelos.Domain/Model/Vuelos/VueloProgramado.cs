@@ -20,8 +20,8 @@ namespace Vuelos.Domain.Model.Vuelos
         public bool Viernes { get; private set; }
         public bool Sabado { get; private set; }
         public bool Domingo { get; private set; }
-        public DateTime HoraSalida { get; private set; }    // !!! SOLO DEBE SER HORA
-        public DateTime HoraLlegada { get; private set; }   // !!! ver. si sera string 
+        public HoraVueloValue HoraSalida { get; private set; }//     HoraVueloValue
+        public HoraVueloValue HoraLlegada { get; private set; } //      HoraVueloValue
         public CodigoCiudadValue CiudadOrigen { get; private set; }   // !!! relacionar x idciudad o por codigociudad
         public CodigoCiudadValue CiudadDestino { get; private set; }    // !!! relacionar x idciudad o por codigociudad
         public PrecioValue PrecioVuelo { get; private set; }    
@@ -33,9 +33,16 @@ namespace Vuelos.Domain.Model.Vuelos
         }
 
 
-        internal VueloProgramado(NroVueloValue nroVuelo, bool lunes, bool martes, bool miercoles, bool jueves, bool viernes,
-                                bool sabado, bool domingo, DateTime horaSalida, DateTime horaLlegada, CodigoCiudadValue ciudadOrigen,
-                                CodigoCiudadValue ciudadDestino, PrecioValue precioVuelo, CantidadMillasValue cantidadMillas)
+        internal VueloProgramado(NroVueloValue nroVuelo, bool lunes, bool martes, bool miercoles,
+                                bool jueves, bool viernes, bool sabado, bool domingo,
+                                HoraVueloValue horaSalida, HoraVueloValue horaLlegada,
+                                CodigoCiudadValue ciudadOrigen, CodigoCiudadValue ciudadDestino,
+                                PrecioValue precioVuelo, CantidadMillasValue cantidadMillas)
+        //internal VueloProgramado(NroVueloValue nroVuelo, bool lunes, bool martes, bool miercoles,
+        //                   bool jueves, bool viernes, bool sabado, bool domingo,
+        //                   string horaSalida, string horaLlegada,
+        //                   string ciudadOrigen, string ciudadDestino,
+        //                   PrecioValue precioVuelo, CantidadMillasValue cantidadMillas)
         {
             Id = Guid.NewGuid();
             NroVuelo = nroVuelo;
@@ -55,9 +62,11 @@ namespace Vuelos.Domain.Model.Vuelos
         }
        
 
-        internal void ModificarVueloProgramado(bool lunes, bool martes, bool miercoles, bool jueves, bool viernes,
-                                bool sabado, bool domingo, DateTime horaSalida, DateTime horaLlegada, CodigoCiudadValue ciudadOrigen,
-                                CodigoCiudadValue ciudadDestino, PrecioValue precioVuelo, CantidadMillasValue cantidadMillas)
+        internal void ModificarVueloProgramado(bool lunes, bool martes, bool miercoles, 
+                                bool jueves, bool viernes, bool sabado, bool domingo, 
+                                HoraVueloValue horaSalida, HoraVueloValue horaLlegada, 
+                                CodigoCiudadValue ciudadOrigen, CodigoCiudadValue ciudadDestino, 
+                                PrecioValue precioVuelo, CantidadMillasValue cantidadMillas)
         {
             Lunes = lunes;
             Martes = martes;

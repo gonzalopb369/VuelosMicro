@@ -151,12 +151,14 @@ namespace Vuelos.Infraestructure.EF.Migrations
                         .HasColumnType("bit")
                         .HasColumnName("domingo");
 
-                    b.Property<DateTime>("HoraLlegada")
-                        .HasColumnType("DateTime")
+                    b.Property<string>("HoraLlegada")
+                        .HasMaxLength(5)
+                        .HasColumnType("varchar(5)")
                         .HasColumnName("horaLlegada");
 
-                    b.Property<DateTime>("HoraSalida")
-                        .HasColumnType("DateTime")
+                    b.Property<string>("HoraSalida")
+                        .HasMaxLength(5)
+                        .HasColumnType("varchar(5)")
                         .HasColumnName("horaSalida");
 
                     b.Property<bool>("Jueves")

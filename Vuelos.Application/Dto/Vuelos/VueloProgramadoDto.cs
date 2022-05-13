@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Vuelos.Application.Dto.Vuelos
 {
     public class VueloProgramadoDto
@@ -17,8 +18,8 @@ namespace Vuelos.Application.Dto.Vuelos
         public bool Viernes { get;  set; }
         public bool Sabado { get;  set; }
         public bool Domingo { get;  set; }
-        public DateTime HoraSalida { get;  set; }    // !!! SOLO DEBE SER HORA
-        public DateTime HoraLlegada { get;  set; }   // !!! ver. si sera string 
+        public string HoraSalida { get;  set; }   
+        public string HoraLlegada { get;  set; }   
         public string CiudadOrigen { get;  set; }   // !!! relacionar x idciudad o por codigociudad
         public string CiudadDestino { get;  set; }    // !!! relacionar x idciudad o por codigociudad
         public decimal PrecioVuelo { get;  set; }

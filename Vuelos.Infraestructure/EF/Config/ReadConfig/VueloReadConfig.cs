@@ -73,11 +73,11 @@ namespace Vuelos.Infraestructure.EF.Config.ReadConfig
 
             builder.Property(x => x.HoraSalida)
                .HasColumnName("horaSalida")
-               .HasColumnType("DateTime");
+               .HasMaxLength(5);
 
             builder.Property(x => x.HoraLlegada)
               .HasColumnName("horaLlegada")
-              .HasColumnType("DateTime");
+              .HasMaxLength(5);              
 
             builder.Property(x => x.CiudadOrigen)
                .HasColumnName("ciudadOrigen")

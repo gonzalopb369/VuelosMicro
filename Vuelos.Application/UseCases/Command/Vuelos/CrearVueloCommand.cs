@@ -8,6 +8,11 @@ namespace Vuelos.Application.UseCases.Command.Vuelos
 {
     public class CrearVueloCommand : IRequest<Guid>
     {
+        public string NroItinerario { get; set; }
+        public DateTime FechaInicio { get; set; }
+        public DateTime FechaFinal { get; set; }
+
+
         public List<VueloProgramadoDto> VueloProgramado { get; set; }
 
 

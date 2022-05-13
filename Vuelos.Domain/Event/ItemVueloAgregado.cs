@@ -20,9 +20,9 @@ namespace Vuelos.Domain.Event
         public bool Jueves { get; }
         public bool Viernes { get; }
         public bool Sabado { get; }
-        public bool Domingo { get;  }
-        public DateTime HoraSalida { get; }    // !!! SOLO DEBE SER HORA
-        public DateTime HoraLlegada { get; }   // !!! ver. si sera string 
+        public bool Domingo { get; }
+        public HoraVueloValue HoraSalida { get; }    //HoraVueloValue
+        public HoraVueloValue HoraLlegada { get; }   //HoraVueloValue
         public CodigoCiudadValue CiudadOrigen { get; }   // !!! relacionar x idciudad o por codigociudad
         public CodigoCiudadValue CiudadDestino { get; }    // !!! relacionar x idciudad o por codigociudad
         public PrecioValue PrecioVuelo { get; }
@@ -30,10 +30,16 @@ namespace Vuelos.Domain.Event
 
 
         //public Guid ProductoId 
-        public ItemVueloAgregado(NroVueloValue nroVuelo, bool lunes, bool martes, bool miercoles, bool jueves, bool viernes,
-                                bool sabado, bool domingo, DateTime horaSalida, DateTime horaLlegada, CodigoCiudadValue ciudadOrigen,
-                                CodigoCiudadValue ciudadDestino, PrecioValue precioVuelo, CantidadMillasValue cantidadMillas) 
-                        : base(DateTime.Now)
+        //public ItemVueloAgregado(NroVueloValue nroVuelo, bool lunes, bool martes, bool miercoles, 
+        //                        bool jueves, bool viernes, bool sabado, bool domingo, 
+        //                        HoraVueloValue horaSalida, HoraVueloValue horaLlegada, 
+        //                        CodigoCiudadValue ciudadOrigen, CodigoCiudadValue ciudadDestino, 
+        //                        PrecioValue precioVuelo, CantidadMillasValue cantidadMillas) : base(DateTime.Now)
+        public ItemVueloAgregado(NroVueloValue nroVuelo, bool lunes, bool martes, bool miercoles,
+                           bool jueves, bool viernes, bool sabado, bool domingo,
+                           string horaSalida, string horaLlegada,
+                           CodigoCiudadValue ciudadOrigen, CodigoCiudadValue ciudadDestino,
+                           PrecioValue precioVuelo, CantidadMillasValue cantidadMillas) : base(DateTime.Now)
         {
             //Guid ProductoId
             NroVuelo = nroVuelo;
@@ -51,6 +57,6 @@ namespace Vuelos.Domain.Event
             PrecioVuelo = precioVuelo;
             CantidadMillas = cantidadMillas;
         }
-        
+
     }
 }

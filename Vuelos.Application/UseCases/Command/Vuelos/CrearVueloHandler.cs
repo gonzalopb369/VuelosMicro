@@ -1,15 +1,16 @@
 ﻿using MediatR;
 using Microsoft.Extensions.Logging;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using Vuelos.Application.Services;
 using Vuelos.Domain.Factories;
 using Vuelos.Domain.Model.Vuelos;
 using Vuelos.Domain.Repositories;
+
 
 namespace Vuelos.Application.UseCases.Command.Vuelos
 {
@@ -23,7 +24,7 @@ namespace Vuelos.Application.UseCases.Command.Vuelos
 
 
         public CrearVueloHandler(IVueloRepository vueloRepository, ILogger<CrearVueloHandler> logger,
-            IVueloService vueloService, IVueloFactory vueloFactory, IUnitOfWork unitOfWork)
+                IVueloService vueloService, IVueloFactory vueloFactory, IUnitOfWork unitOfWork)
         {
             _vueloRepository = vueloRepository;
             _logger = logger;
