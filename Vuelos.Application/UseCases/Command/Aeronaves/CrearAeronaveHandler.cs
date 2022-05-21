@@ -40,7 +40,7 @@ namespace Vuelos.Application.UseCases.Command.Aeronaves
             {
                 string nroAeronave = await _aeronaveService.GenerarNroAeronaveAsync();  // crea aeronave vacia
                 //Aeronave objAeronave = _aeronaveFactory.Create(nroAeronave); ORIGINAL
-                Aeronave objAeronave = _aeronaveFactory.CrearCabAeronave(request.NroAeronave,
+                Aeronave objAeronave = _aeronaveFactory.CrearCabAeronave(nroAeronave, //request.NroAeronave,
                             request.Matricula, request.Marca, request.Modelo, request.CapacidadAsientos,
                             request.CapacidadCombustible, request.EsActivo);
                 foreach (var item in request.DetalleAsientos)
